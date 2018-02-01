@@ -7,29 +7,30 @@ Horse is a [Bid Euchre](https://en.wikipedia.org/wiki/Bid_Euchre) variant, havin
 * 24 cards with 4 players (i.e. 6 cards per player)
 
 ## Bidding
-* bid for # of tricks (up to 6) you will win if you get to choose trump
+* bid for # of tricks (up to 6)
 * bid winner declares trump (or that there is no trump) after winning the bid
-* special bid: "Horse"
+* special bid: "Horse" (== 6, going alone)
 	* 6 tricks with a trump (i.e. cannot be no-trump, which is just "6")
 	* opponents can double
 		* this means that *they* are bidding Horse
 		* if the double stands, opponents become the bid winners
 	* original bidding team can redouble
+		* doubling, redoubling is *only* for "Horse" bids
 	* bidder asks partner for up to 6 cards from their hand
 	* bidder chooses up to 6 losers to drop from their hand before getting new cards
 	* bidder hands discarded cards to partner, who puts them face-down
 	* partner hands bidder the new cards
 	* bidder plays alone against the two opponents
-	* bidder plays first
+	* the person to the left of the declarer leads off the first trick
 
 ## Scoring
 ### Making your bid
 * 1 point per trick won
-* if "Horse" was bid, 2 points per trick = 12 points
-* a bid of 6 (i.e. 6 no-trump) = 6 points
-* if doubled, score multiplied by 2 = (for 6 no-trump) 12 points
-* if redoubled, score multiplied by 4 = (for 6 no-trump) 24 points
-	* note: a redoubled Horse bid is worth 4 * 12 = 48 points!
+* a bid of 6 (*not* Horse - e.g. 6 no-trump) = 6 points
+* special scoring only for "Horse" bids:
+	* 2 points per trick = 12 points if successful
+	* if doubled: 24 points
+	* if redoubled: 48 points
 
 ### Losing your bid
 * opponents gain 1 point per trick they take
