@@ -1,4 +1,4 @@
-#The Rules to Horse
+# The Rules to Horse
 
 Horse is a [Bid Euchre](https://en.wikipedia.org/wiki/Bid_Euchre) variant, having some similarities to [500](https://en.wikipedia.org/wiki/500_(card_game))
 
