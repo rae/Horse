@@ -26,8 +26,9 @@ Horse is a [Bid Euchre](https://en.wikipedia.org/wiki/Bid_Euchre) variant, havin
 * 1 point per trick won
 * if "Horse" was bid, 2 points per trick = 12 points
 * a bid of 6 (i.e. 6 no-trump) = 6 points
-* if doubled, score multiplied by 2 = 12 points
-* if redoubled, score multiplied by 4 = 24 points
+* if doubled, score multiplied by 2 = (for 6 no-trump) 12 points
+* if redoubled, score multiplied by 4 = (for 6 no-trump) 24 points
+	* note: a redoubled Horse bid is worth 4 * 12 = 48 points!
 
 ### Losing your bid
 * opponents gain 1 point per trick they take
