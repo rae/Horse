@@ -16,8 +16,9 @@ Horse is a [Bid Euchre](https://en.wikipedia.org/wiki/Bid_Euchre) variant, havin
 		* if the double stands, opponents become the bid winners
 	* original bidding team can redouble
 	* bidder asks partner for up to 6 cards from their hand
-	* bidder chooses the best 6 cards as their new hand
-	* bidder returns unused cards to their partner, whop puts the hand face down
+	* bidder chooses up to 6 losers to drop from their hand before getting new cards
+	* bidder hands discarded cards to partner, who puts them face-down
+	* partner hands bidder the new cards
 	* bidder plays alone against the two opponents
 	* bidder plays first
 
