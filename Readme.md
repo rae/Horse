@@ -2,12 +2,13 @@
 
 Horse is a [Bid Euchre](https://en.wikipedia.org/wiki/Bid_Euchre) variant, having some similarities to [500](https://en.wikipedia.org/wiki/500_(card_game))
 
-* similar to Euchre (Bauers if there is trump)
+* similar to Euchre - there are Bauers (unless no-trump is called)
 * deck has cards 9 and up, no jokers
 * 24 cards with 4 players (i.e. 6 cards per player)
 
 ## Bidding
 * bid for # of tricks (up to 6)
+* bidding continues until three passes
 * bid winner declares trump (or that there is no trump) after winning the bid
 * special bid: "Horse" (== 6, going alone)
 	* 6 tricks with a trump (i.e. cannot be no-trump, which is just "6")
@@ -26,6 +27,7 @@ Horse is a [Bid Euchre](https://en.wikipedia.org/wiki/Bid_Euchre) variant, havin
 ## Scoring
 ### Making your bid
 * 1 point per trick won
+* opponents get no points for tricks won
 * a bid of 6 (*not* Horse - e.g. 6 no-trump) = 6 points
 * special scoring only for "Horse" bids:
 	* 2 points per trick = 12 points if successful
@@ -43,9 +45,9 @@ Horse is a [Bid Euchre](https://en.wikipedia.org/wiki/Bid_Euchre) variant, havin
 ## Victory conditions
 1. scoring 50 or more by winning a bid
 	* scoring 50 or more by foiling a bid will not win
-1. opponents go below -24
+1. opponents score -25 or lower
 
 ## Bidding Conventions
 * If you have only 1 jack and bad cards: pass
-* 2 jacks: bid 2 — if partner has a jack they should bid Horse
+* 2 opposite-coloured jacks: bid 2 — if partner has a jack they should bid Horse
 * A bid of 3 can be a defensive bid to simply prevent a 2 bid by opponents
