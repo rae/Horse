@@ -1,5 +1,7 @@
 # The Rules to Horse
 
+[![Join the chat at https://gitter.im/horse-game/Lobby](https://badges.gitter.im/horse-game/Lobby.svg)](https://gitter.im/horse-game/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Horse is a [Bid Euchre](https://en.wikipedia.org/wiki/Bid_Euchre) variant, having some similarities to [500](https://en.wikipedia.org/wiki/500_(card_game))
 
 * similar to Euchre - there are Bauers (unless no-trump is called)
